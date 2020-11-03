@@ -1,0 +1,11 @@
+---
+title: "Unweek4part1-CI and t tests"
+author: "Alison Sells"
+date: "11/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
